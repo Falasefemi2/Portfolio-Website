@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Website/static/css/main.2dc56195.css",
+    "main.js": "/Portfolio-Website/static/js/main.35db4ddb.js",
+    "static/media/CarWebsite.PNG": "/Portfolio-Website/static/media/CarWebsite.2dafcde47a7b84672b6d.PNG",
+    "static/media/ReactResturant.PNG": "/Portfolio-Website/static/media/ReactResturant.bd549c0cb352f5394af6.PNG",
+    "static/media/AgencyWebsite.PNG": "/Portfolio-Website/static/media/AgencyWebsite.3b95e9debede6dadfc21.PNG",
+    "static/media/SocialBook.PNG": "/Portfolio-Website/static/media/SocialBook.9c9ba0d50d9e6937ffa2.PNG",
+    "static/media/GPT3.PNG": "/Portfolio-Website/static/media/GPT3.a3a40f60719bf472939f.PNG",
+    "static/media/react.png": "/Portfolio-Website/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/StarBucks.PNG": "/Portfolio-Website/static/media/StarBucks.68e7397a6d688085b2d9.PNG",
+    "static/media/Falase_Femi Samuel_Resume_18-03-2022-11-42-48-1.pdf": "/Portfolio-Website/static/media/Falase_Femi Samuel_Resume_18-03-2022-11-42-48-1.64312ea29a2319f4d020.pdf",
+    "static/media/dashboard1.PNG": "/Portfolio-Website/static/media/dashboard1.e0da58050756a59f9b57.PNG",
+    "static/media/github.png": "/Portfolio-Website/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/CrudClone.PNG": "/Portfolio-Website/static/media/CrudClone.814e95c05ce5a6ee48b3.PNG",
+    "static/media/html.png": "/Portfolio-Website/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/Portfolio-Website/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/Portfolio-Website/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/FEMI.jpg": "/Portfolio-Website/static/media/FEMI.26dd21456d8daa06ff1c.jpg",
+    "static/media/javascript.png": "/Portfolio-Website/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/Portfolio-Website/index.html",
+    "main.2dc56195.css.map": "/Portfolio-Website/static/css/main.2dc56195.css.map",
+    "main.35db4ddb.js.map": "/Portfolio-Website/static/js/main.35db4ddb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2dc56195.css",
+    "static/js/main.35db4ddb.js"
+  ]
+}
